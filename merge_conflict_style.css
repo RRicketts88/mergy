@@ -1,9 +1,12 @@
 .square1 {
-    color: blue;
+  color: pink;
+  margin: 50%;
 }
 .square2 {
-    color: red;
+  color: palevioletred;
+  margin: 50%;
 }
 .square3 {
-    color: green;
+  color: green;
+  margin: 50%;
 }
